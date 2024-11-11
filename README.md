@@ -6,11 +6,11 @@ No link a seguir você pode fazer download de um documento de requisitos para um
 * [Exemplo de Documento de Requisitos - JARVIS.pdf](https://github.com/user-attachments/files/17388495/Exemplo.de.Documento.de.Requisitos.-.JARVIS.pdf)
 
 # Integrantes do Grupo
-1) 
-2) 
-3) 
-4) 
-5) 
+1) Luis Carlos
+2) Carlos Henrique
+3) Antônio Henrique
+4) Messias Gabriel
+5) Kauan Silva
 
 # Documento de Requisitos
 
