@@ -22,9 +22,9 @@ No link a seguir você pode fazer download de um documento de requisitos para um
 
 |Versão|Responsáveis|Data|Alterações|
 |------|------------|----|----------|
-|  1.0 |            |    |          |
-|  2.0 |            |    |          |
-|  3.0 |            |    |          |
+|  1.0 |   luis carlos, carlos henrique, antonio henrique, messias gabriel, kauan silva, gustavo araujo pinheiro, luiz eduardo, gustavo nascimento         |  05/11/2024  |versão inicial do sistema         |
+
+
 
 # 1 Introdução (ATÉ DIA 05/11/2024)
 
@@ -33,11 +33,19 @@ O objetivo deste documento é apresentar os requisitos do sistema de automação
 Este documento está estruturado de forma a apresentar os requisitos funcionais e não funcionais do sistema, bem como as principais regras de negócio e limitações do projeto. Além disso, detalha o minimundo e os principais processos envolvidos no desenvolvimento da Casa Inteligente, com foco nas necessidades do usuário.
 # 2 Descrição do Propósito do Sistema (ATÉ DIA 05/11/2024)
 
-* Descreva aqui o propósito geral do sistema.
+O propósito do sistema Casa Inteligente é proporcionar aos usuários um ambiente residencial mais seguro, eficiente e confortável por meio de automação. Através de dispositivos conectados, sensores e comandos remotos, os moradores poderão controlar e monitorar diversos aspectos da residência, como iluminação, temperatura, sistemas de segurança, eletrodomésticos, entre outros. O sistema permitirá a integração de diferentes tecnologias em uma plataforma única, tornando a vida doméstica mais conveniente e econômica.
+
+A Casa Inteligente busca otimizar o consumo de energia e aumentar a segurança, além de proporcionar a facilidade de controle por meio de dispositivos móveis, permitindo que o usuário tenha acesso remoto a qualquer momento e de qualquer lugar.
  
 # 3 Descrição do Minimundo (ATÉ DIA 05/11/2024)
 
-* Apresente, em texto corrido, uma visão geral do domínio, do problema a ser resolvido e dos processos de negócio apoiados, bem como as principais ideias do cliente sobre o sistema a ser desenvolvido.
+O domínio do sistema Casa Inteligente envolve a automação residencial e o controle de diversos dispositivos conectados. A principal problemática que o sistema resolve é a gestão eficiente dos recursos de uma residência, além de oferecer conveniência e segurança ao usuário. O minimundo do projeto engloba:
+
+Casa: A residência, que pode ter diversos cômodos, cada um com diferentes dispositivos a serem controlados, como lâmpadas, termostatos, sistemas de segurança e eletrodomésticos.
+Usuários: Pessoas que habitam a casa e interagem com o sistema, podendo ter diferentes níveis de acesso e controle.
+Dispositivos: Equipamentos automatizados, como lâmpadas inteligentes, termostatos, câmeras de segurança, fechaduras inteligentes e eletrodomésticos conectados.
+Controles: Interface através da qual o usuário interage com os dispositivos, podendo ser um aplicativo móvel ou uma interface web.
+O cliente tem o desejo de implementar um sistema simples e intuitivo, mas ao mesmo tempo robusto, capaz de controlar múltiplos dispositivos simultaneamente e realizar automações conforme horários predefinidos ou gatilhos acionados por sensores (como movimento ou temperatura).
 
 # 4 Requisitos de Usuário (ATÉ DIA 26/11/2024)
 
@@ -45,8 +53,8 @@ Este documento está estruturado de forma a apresentar os requisitos funcionais 
 
 |Identificador|Descrição|Prioridade|Depende de|
 |-------------|---------|----------|----------|
-|    RF01     |         |          |          |
-|    RF02     |         |          |          |
+|    RF01     |    O sistema deve permitir o controle remoto de lâmpadas e dispositivos elétricos.     |     alta     |        nenhum  |
+|    RF02     |  O sistema deve permitir o controle de temperatura através de termostatos inteligentes.|          |          |
 |             |         |          |          |
 |             |         |          |          |
 |             |         |          |          |
