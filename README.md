@@ -14,20 +14,21 @@ No link a seguir você pode fazer download de um documento de requisitos para um
 
 # Documento de Requisitos
 
-## Nome do projeto: 
+## Nome do projeto: Casa Inteligente - Sistema de Automação Residencial
 
 ## Registro de alterações:
 
 |Versão|Responsáveis|Data|Alterações|
 |------|------------|----|----------|
 |  1.0 |            |    |          |
-|      |            |    |          |
-|      |            |    |          |
+|  2.0 |            |    |          |
+|  3.0 |            |    |          |
 
 # 1 Introdução (ATÉ DIA 05/11/2024)
 
-* Escreva aqui uma breve introdução ao documento, descrevendo seu propósito e estrutura.
+O objetivo deste documento é apresentar os requisitos do sistema de automação residencial para uma "Casa Inteligente", desenvolvendo uma solução tecnológica capaz de integrar e automatizar dispositivos e serviços dentro de uma residência. O sistema permitirá ao usuário controlar, monitorar e otimizar o uso de recursos como energia, segurança, temperatura e dispositivos domésticos de maneira simples e eficiente.
 
+Este documento está estruturado de forma a apresentar os requisitos funcionais e não funcionais do sistema, bem como as principais regras de negócio e limitações do projeto. Além disso, detalha o minimundo e os principais processos envolvidos no desenvolvimento da Casa Inteligente, com foco nas necessidades do usuário.
 # 2 Descrição do Propósito do Sistema (ATÉ DIA 05/11/2024)
 
 * Descreva aqui o propósito geral do sistema.
