@@ -11,6 +11,8 @@ No link a seguir você pode fazer download de um documento de requisitos para um
 3) Antônio Henrique
 4) Messias Gabriel
 5) Kauan Silva
+6) Gustavo Araujo Pinheiro
+7) Luiz Eduardo
 
 # Documento de Requisitos
 
